@@ -28,30 +28,27 @@ Plaintext
 ├── index.html          # Main HTML file
 ├── style.css           # Custom CSS styles
 └── README.md           # Project documentation
-🚀 How to Run Locally
+
+🚀 How to Run Locally-
 Clone the repository:
 
-Bash
 git clone https://github.com/Devanshu4116/portfolio-website.git
-Navigate to the project folder:
 
-Bash
+Navigate to the project folder:
 cd portfolio-website
+
 Open the project:
 Simply open index.html in your favorite browser, or use the Live Server extension in VS Code.
 
 📝 Personalization
-To make this your own, simply:
 
+To make this your own, simply:
 Replace the images/main.jpeg with your professional photo.
 
 Update the text in the home-content div.
-
 Add your own social media links in the social-icon section.
 
 🤝 Connect with Me
 LinkedIn: Devanshu Agarwal
-
 Instagram: @_.dev18
-
 Twitter/X: @kohlified0405
