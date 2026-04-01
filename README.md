@@ -32,7 +32,7 @@ Plaintext
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/portfolio-website.git
+git clone https://github.com/Devanshu4116/portfolio-website.git
 Navigate to the project folder:
 
 Bash
